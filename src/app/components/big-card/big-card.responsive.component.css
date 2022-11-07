@@ -1,0 +1,11 @@
+@media screen and (max-width:500px) {
+    .container__big-card .big-card__title h1 a {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .big-card__photo {
+        width: 10px;
+    }
+}

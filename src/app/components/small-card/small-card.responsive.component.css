@@ -1,0 +1,14 @@
+@media screen and (max-width:600px) {
+    .container__small-card-content .small-card__title h1 {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .small-card__photo img {
+        width: 2px;
+    }
+}
+
+
+
